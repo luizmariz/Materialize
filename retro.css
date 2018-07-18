@@ -7,3 +7,10 @@ body {
   margin-left: 25px;
   margin-top: 20px;
 }
+
+.ajuste li a {
+  margin-left: 25px;
+  margin-top: 25px;
+  margin-right: 25px;
+  font-size: 1.6em;
+}
