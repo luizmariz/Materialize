@@ -5,9 +5,13 @@ body {
 }
 
 p {
-    text-align: justify;
-    text-justify: inter-word;
-    font-size: 1.1em;
+  text-align: justify;
+  text-justify: inter-word;
+  font-size: 1.1em;
+}
+
+footer {
+  margin-top: 40vh;
 }
 
 .ajuste li a {
@@ -19,9 +23,9 @@ p {
 
 .citacao {
   font-family: 'Shadows Into Light', cursive;
-  font-size: 2.4em;
-  padding-bottom: 20px;
-  padding-top: 20px;
+  font-size: 2em;
+  padding-bottom: 5px;
+  padding-top: 5px;
 
 }
 
@@ -39,6 +43,4 @@ p {
   padding: 5vh;
 }
 
-#faixa-inferior{
-  margin-top: 30vh;
-}
+
