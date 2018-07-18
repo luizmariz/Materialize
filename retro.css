@@ -1,0 +1,9 @@
+body {
+  background: url(img/background/literature.jpg);
+  height: 100%;
+}
+
+#logo {
+  margin-left: 25px;
+  margin-top: 20px;
+}
