@@ -8,6 +8,11 @@ body {
 
 #contato {
 	margin-top: 15%;
-	max-width: 800px;
+  max-width: 800px;
 }
 
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}

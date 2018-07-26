@@ -8,9 +8,9 @@ body {
 /* bloco 1 flea market.... */
 #bloco-1 {
   min-height: 30vh;
-  padding-top: 10vh;
+  padding-top: 5vh;
   padding-bottom: 5vh;
-  margin-top: 72vh;
+  margin-top: 50vh;
   margin-bottom: 350px;
 }
 #titulo {
