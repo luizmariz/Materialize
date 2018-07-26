@@ -1,46 +1,43 @@
-body {
-  background: url(img/background/literature.jpg);
-  background-attachment: fixed;
-  background-size: cover;
-}
 
-p {
-  text-align: justify;
-  text-justify: inter-word;
-  font-size: 1.1em;
+/* navbar ..............*/
+nav {
+  height: 100px;
 }
-
-footer {
-  margin-top: 40vh;
+nav ul a {
+  font-size: 1.4em;
+  font-family: 'Dosis', sans-serif;
 }
-
-.ajuste li a {
-  margin-left: 25px;
-  margin-top: 25px;
-  margin-right: 25px;
-  font-size: 1.2em;
-}
-
-.citacao {
-  font-family: 'Shadows Into Light', cursive;
+/* texto ..............*/
+span {
   font-size: 2em;
-  padding-bottom: 5px;
-  padding-top: 5px;
-
+  font-family: Dosis;
+}
+h2, h3, h5 {
+  font-family: Dosis;
+}
+/* botões ..... */
+.btn {
+  background-color: #9e9e9e;
+}
+.btn:hover {
+  background-color: #bdbdbd;
+}
+/* footer ............*/
+footer {
+  margin-top: 200px;
+  margin-bottom: 0;
+}
+.page-footer img {
+  height: 2em;
+}
+#texto-footer {
+  margin-bottom: 2em;
 }
 
-.identar {
-  margin-left: 2px;
+.icon-block {
+  padding: 0 15px;
 }
 
-#logo {
-  margin-left: 25px;
-  margin-top: 20px;
+.icon-block .material-icons {
+	font-size: inherit;
 }
-
-#faixa {
-  margin-top: 60vh;
-  padding: 5vh;
-}
-
-

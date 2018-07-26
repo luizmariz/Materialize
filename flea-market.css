@@ -1,0 +1,18 @@
+/* body .............*/
+body {
+  background-image: url('img/background/record-player.jpg');
+  height: 1200px;
+
+  background-attachment: fixed;
+}
+/* bloco 1 flea market.... */
+#bloco-1 {
+  min-height: 30vh;
+  padding-top: 10vh;
+  padding-bottom: 5vh;
+  margin-top: 72vh;
+  margin-bottom: 350px;
+}
+#titulo {
+  margin-left: 2.4em;
+}
